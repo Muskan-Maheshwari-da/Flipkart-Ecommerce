@@ -8,7 +8,8 @@ An end-to-end data analytics and business intelligence project built using **Pyt
 This project analyzes transactional e-commerce data to evaluate key business performance indicators (KPIs). By combining web-scraped product data with structured operational attributes, the resulting interactive 3-page Power BI report helps stakeholders optimize supply chain efficiency, target high-growth regions, and reduce order cancellation rates.
 
 ---
-##  Data Collection & Pipeline (Web Scraping & Wrangling)
+
+## 🕷️ Data Collection & Pipeline (Web Scraping & Wrangling)
 
 ### 1. Data Scraping (Python)
 - **Tools:** Python, `BeautifulSoup4`, `Requests`, `Selenium`
@@ -52,7 +53,7 @@ This project analyzes transactional e-commerce data to evaluate key business per
 * **Data Modeling:** DAX (Data Analysis Expressions) for dynamic measures, Time Intelligence, and conditional aggregation
 * **Design Theme:** Customized Dark Theme (`#111C2E`) with Neon Cyan (`#00E5FF`) accents
 
-📈 Business Insights & Strategic Recommendations 
+📈 Business Insights & Strategic Recommendations
 1.Regional Demand vs. Growth: While Tier-1 metros (Mumbai, Delhi, Bangalore) generate the largest gross revenue share, emerging Tier-2 hubs (Jaipur, Bareilly, Ahmedabad) exhibit higher MoM growth velocity.
 
 2. Delivery Speed vs. Cancellation Correlation: Longer delivery timelines (>5 days) directly correlate with higher order cancellation rates, primarily driven by "Expected Delivery Time Exceeded".
